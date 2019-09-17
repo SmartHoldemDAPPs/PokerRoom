@@ -22,4 +22,5 @@ v1.0.0-beta
 - Latest Version updater/checker
 - Find best game nodes by ping
 - WS API/REST JSON RPC API
+- Game Chips
 
