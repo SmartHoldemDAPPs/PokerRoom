@@ -23,4 +23,5 @@ v1.0.0-beta
 - Find best game nodes by ping
 - WS API/REST JSON RPC API
 - Game Chips
-
+- Sound Manager System
+- Animation Manager System
