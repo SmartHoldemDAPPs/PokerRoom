@@ -25,3 +25,4 @@ v1.0.0-beta
 - Game Chips
 - Sound Manager System
 - Animation Manager System
+- Mobile Android/IOS
