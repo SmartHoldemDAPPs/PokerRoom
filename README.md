@@ -12,5 +12,14 @@ v1.0.0-beta
 - Lobby
 - Create Game
 - Sit Here
+- System Events
+- Notifications
+- 2 Types cards
+- 6 theme tables
+- Naming
+- Avatars
+- Chat by room, private, all
+- Latest Version updater/checker
+- Find best game nodes by ping
 
 
