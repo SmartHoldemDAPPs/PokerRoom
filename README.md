@@ -26,3 +26,4 @@ v1.0.0-beta
 - Sound Manager System
 - Animation Manager System
 - Mobile Android/IOS
+- Support Quality HD Resolutions 1920x1080
