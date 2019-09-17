@@ -1,2 +1,6 @@
-# PokerRoom
-Poker Room Game Releases
+# Poker Room Game Releases
+
+v1.0.0-beta
+
+- Scaled canvas objects
+
