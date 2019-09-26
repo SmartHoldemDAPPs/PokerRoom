@@ -27,7 +27,7 @@ v1.0.0-beta
 - Animation Manager System
 - Mobile Android/IOS
 - Support Quality HD Resolutions 1920x1080
-- Multitables
+- Multitables > 18 level
 - Private rooms
 - Contact friend list
 - Contact wallet addresses
