@@ -39,4 +39,4 @@ v1.0.0-beta
 - Up to 9 players x 1 room
 - View & Select Room into Lobby
 - Wheel Select Room
-- Back to Lobby
+- Back to Main Area
