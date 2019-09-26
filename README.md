@@ -33,3 +33,4 @@ v1.0.0-beta
 - Contact wallet addresses
 - Invite friends
 - Free Play
+- Scaled GL Screen
