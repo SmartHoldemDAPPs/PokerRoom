@@ -15,7 +15,7 @@ v1.0.0-beta
 - System Events
 - Notifications
 - 2 Types cards
-- 6 theme tables
+- 4 theme tables
 - Naming
 - Avatars
 - Chat by room, private, all
@@ -36,3 +36,4 @@ v1.0.0-beta
 - Scaled GL Screen
 - 4 type tables
 - RNG core crypto with very big numbers
+- Up to 9 players x 1 room
