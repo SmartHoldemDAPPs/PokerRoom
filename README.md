@@ -35,3 +35,4 @@ v1.0.0-beta
 - Free Play
 - Scaled GL Screen
 - 4 type tables
+- RNG core crypto with very big numbers
