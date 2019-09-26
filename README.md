@@ -37,3 +37,4 @@ v1.0.0-beta
 - 4 type tables
 - RNG core crypto with very big numbers
 - Up to 9 players x 1 room
+- View & Select Room into Lobby
