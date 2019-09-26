@@ -34,3 +34,4 @@ v1.0.0-beta
 - Invite friends
 - Free Play
 - Scaled GL Screen
+- 4 type tables
