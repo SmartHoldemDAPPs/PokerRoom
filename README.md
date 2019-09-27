@@ -40,3 +40,4 @@ v1.0.0-beta
 - View & Select Room into Lobby
 - Wheel Select Room
 - Back to Main Area
+- Sit Here action with room params
