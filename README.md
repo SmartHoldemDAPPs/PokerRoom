@@ -22,7 +22,7 @@ v1.0.0-beta
 - Latest Version updater/checker
 - Find best game nodes by ping
 - WS API/REST JSON RPC API
-- 1 STH : 1000 CHIPS
+- 1 STH : 100 CHIPS
 - Sound Manager System
 - Animation Manager System
 - Mobile Android/IOS
