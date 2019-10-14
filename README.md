@@ -41,3 +41,5 @@ v1.0.0-beta
 - Wheel Select Room
 - Back to Main Area
 - Sit Here action with room params
+- Proof hashing decks
+- Crypto Signature Players
